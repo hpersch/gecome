@@ -13914,3 +13914,563 @@ Stack Trace:
 #19 /var/www/gecome/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #20 /var/www/gecome/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #21 {main}
+2013-12-10 18:41:11 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:41:28 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:41:35 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:41:39 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:41:41 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/marcas
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('marcas')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:41:44 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:42:46 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(29): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:52:19 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\gecome\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\gecome\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/gecome/Admin/d...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/gecome/Admin/d...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(30): Controller->render('/gecome/Admin/d...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:54:23 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\gecome\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\gecome\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/gecome/Admin/d...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/gecome/Admin/d...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(35): Controller->render('/gecome/Admin/d...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:55:51 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(35): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 18:59:37 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/adm/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(38): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('adm', 'js', 'jquery-1.10.2.m...')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:01:37 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/adm/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('adm', 'js', 'jquery-1.10.2.m...')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:01:39 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:01:44 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:02:05 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\http:\\localhost\gecome\\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\http:\\\\localhost\\gecome\\\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('http://localhos...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('http://localhos...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('http://localhos...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:02:28 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\gecome\\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\gecome\\\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/gecome//Admin/...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/gecome//Admin/...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/gecome//Admin/...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:02:47 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\gecome\\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\gecome\\\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/gecome//Admin/...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/gecome//Admin/...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/gecome//Admin/...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:02:53 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\gecome\\Admin\departamentos\listar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\gecome\\\\Admin\\departamentos\\listar.ctp',
+)
+Request URL: /gecome/admin/departamentos
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/gecome//Admin/...')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/gecome//Admin/...', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/gecome//Admin/...')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('departamentos/l...')
+#4 [internal function]: PagesController->admin_view('departamentos')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:03:21 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/img/favicon.html
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(36): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('img', 'favicon.html')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:10:17 Error: Fatal Error (64): Cannot redeclare AppController::$uses in [C:\xampp\htdocs\gecome\app\Controller\AppController.php, line 22]
+2013-12-10 19:10:17 Error: [FatalErrorException] Cannot redeclare AppController::$uses
+Request URL: /gecome/
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 22, Array)
+#2 C:\xampp\htdocs\gecome\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\xampp\htdocs...', 22, Array)
+#3 C:\xampp\htdocs\gecome\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-12-10 19:10:55 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(38): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:13:39 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(45): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:13:42 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(45): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:13:44 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(42): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:14:21 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:14:25 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:15:58 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:16:16 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:16:57 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(39): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:17:38 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(35): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:29:00 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(35): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:32:38 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Admin\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Admin\\404.ctp',
+)
+Request URL: /gecome/admin/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Admin/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Admin/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(37): Controller->render('/Admin/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(52): AppController->_render('404')
+#4 [internal function]: PagesController->admin_view('users', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:41:27 Error: [MissingActionException] Action AppController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'login',
+)
+Request URL: /gecome/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-10 19:42:14 Error: [MissingActionException] Action AppController::admin_login() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'admin_login',
+)
+Request URL: /gecome/admin/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-10 19:43:50 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/gecome/app/login
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(33): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('gecome', 'app', 'login')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-12-10 19:44:08 Error: [MissingViewException] View file "C:\xampp\htdocs\gecome\app\View\Pages\404.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\gecome\\app\\View\\Pages\\404.ctp',
+)
+Request URL: /gecome/gecome
+Stack Trace:
+#0 C:\xampp\htdocs\gecome\lib\Cake\View\View.php(468): View->_getViewFileName('/Pages/404')
+#1 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(948): View->render('/Pages/404', NULL)
+#2 C:\xampp\htdocs\gecome\app\Controller\AppController.php(33): Controller->render('/Pages/404')
+#3 C:\xampp\htdocs\gecome\app\Controller\PagesController.php(31): AppController->_render('404')
+#4 [internal function]: PagesController->view('gecome')
+#5 C:\xampp\htdocs\gecome\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\gecome\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#8 C:\xampp\htdocs\gecome\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}

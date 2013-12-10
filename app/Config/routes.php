@@ -22,8 +22,10 @@
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
 //rotas de padroes
-Router::connect('/login', array('controller' => 'app', 'action' => 'login'));
-Router::connect('/admin/login', array('controller' => 'app', 'action' => 'login', 'admin' => true));
+Router::connect('/users/:action', array('controller' => 'users'));
+
+Router::connect('/login', array('controller' => 'users', 'action' => 'login'));
+Router::connect('/admin/login', array('controller' => 'users', 'action' => 'login'));
 
 //rotas admin
 Router::connect('/admin/departamentos/:action/*', array('controller' => 'departamentos', 'admin' => true));

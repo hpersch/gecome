@@ -1,4 +1,5 @@
 <?php
+
 App::uses('Controller', 'Controller');
 
 /**
@@ -12,15 +13,15 @@ App::uses('Controller', 'Controller');
  */
 class AppController extends Controller {
 
-    public $components = array('Session', 'Error', 'Cookie');
+    public $components = array('Auth', 'Session', 'Error', 'Cookie');
     public $uses = array('User');
 
-    public function login() {
-        $this->_render("login");
-    }
-
-    public function admin_login() {
-        $this->_render("login");
+    public function beforeFilter() {
+        parent::beforeFilter();
+        //$this->Auth->loginAction = array('action' => 'login', 'controller' => 'app');
+        $this->Auth->loginRedirect = array('action' => 'login', 'controller' => 'app');
+        $this->Auth->logoutRedirect = array('action' => 'login', 'controller' => 'app');
+        $this->Auth->authError = 'You are not allowed to see that.';
     }
 
     public function _render($page) {
