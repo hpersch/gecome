@@ -23,6 +23,7 @@
  */
 //rotas de padroes
 Router::connect('/users/:action', array('controller' => 'users'));
+Router::connect('/admin/users/:action', array('controller' => 'users'));
 
 Router::connect('/login', array('controller' => 'users', 'action' => 'login'));
 Router::connect('/admin/login', array('controller' => 'users', 'action' => 'login'));

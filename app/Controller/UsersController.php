@@ -6,6 +6,7 @@ class UsersController extends AppController {
         parent::beforeFilter();
         $this->Auth->allow('add', 'logout', 'change_password', 'remember_password', 'remember_password_step_2');
     }
+
     public function index() {
         if (AuthComponent::user('role') != 'admin') {
             throw new ForbiddenException("Você não tem permissão para executar esta ação.");
@@ -42,6 +43,7 @@ class UsersController extends AppController {
                 $this->Session->setFlash(__('Invalid username or password, try again'), 'flash_fail');
             }
         }
+        $this->_render('entradas/cadastro_login');
     }
 
     public function logout() {

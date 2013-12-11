@@ -1287,7 +1287,7 @@ table.fc-border-separate {
 /*banner baixo estilo das propagandas*/
 #banner-baixo
 {
-    
+
     margin: 0 auto;
     width: 100%;
     alignment-adjust: central;
@@ -1298,4 +1298,12 @@ table.fc-border-separate {
     float: left;
     margin: 0 auto;    
 }
-
+.e404 {
+    font-size: 48px;
+    font-weight: bold;
+    color: rgb(136, 28, 28);
+}
+.e404m {
+    font-weight: bold;
+    font-size: 28px;
+}

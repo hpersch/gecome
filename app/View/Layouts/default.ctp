@@ -49,7 +49,7 @@
                     </div>
 
                     
-                    <div class="col-md-8 text-right" style="margin:-2px 0px">                       
+                    <div class="col-md-8 text-right" style="margin:-4px 0px">                       
 
                         <span class="label label-info"><a href="<?php echo $this->base ;?>/cadastro_login" role="button" data-toggle="modal">Entre ou Cadastre-se</a></span>
                         <span class="label label-info"><a href="#cart" role="button" data-toggle="modal">0 itens <i class="icon-shopping-cart"></i></a> - <span class="bold">R$ 0</span></span>
@@ -81,7 +81,16 @@
                         <li><a href="<?= $this->webroot ?>"><i class="icon-home"></i></a></li>
                         <li>
                             <a href="<?php echo $this->base ?>/departamentos">Departamentos</a>
-                        </li>                        
+                        </li>
+                        <li>
+                            <a href="<?php echo $this->base ?>/promocoes">Promocoes</a>
+                        </li> 
+                        <li>
+                            <a href="<?php echo $this->base ?>/entrega">Entrega</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo $this->base ?>/sobre">Sobre</a>
+                        </li> 
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>

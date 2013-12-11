@@ -8,6 +8,7 @@ class PagesController extends AppController {
 
     public function beforeFilter() {
         parent::beforeFilter();
+        $this->Auth->allow('view');
     }
 
     public function view($page, $id = NULL) {
